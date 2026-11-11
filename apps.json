@@ -1,5 +1,16 @@
-{
-  "name": "Example",
-  "icon_path": "/example/icon.png"
-  "file_path": "/example/icon.nkpkg"
-}
+[
+  {
+    "name": "Flappy Bird",
+    "version": "1.0",
+    "author": "Nykon OS",
+    "icon_path": "/flappy_bird/icon.png",
+    "file_path": "/flappy_bird.nkpkg"
+  },
+  {
+    "name": "Peanut GB",
+    "version": "1.0",
+    "author": "Nykon OS",
+    "icon_path": "/peanut_gb/icon.png",
+    "file_path": "/peanut_gb.nkpkg"
+  }
+]
