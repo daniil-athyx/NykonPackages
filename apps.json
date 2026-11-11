@@ -12,5 +12,12 @@
     "author": "Nykon OS",
     "icon_path": "/peanut_gb/icon.png",
     "file_path": "/peanut_gb.nkpkg"
+  },
+  {
+    "name": "Test App",
+    "version": "1.0",
+    "author": "Nykon OS",
+    "icon_path": "/test_app/icon.png",
+    "file_path": "/test_app.nkpkg"
   }
 ]
